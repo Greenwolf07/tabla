@@ -1,0 +1,34 @@
+
+nav ul{
+   list-style: none;
+   padding: 0;
+}
+nav li {
+   line-height: 3rem;
+   position: relative;
+   font-size: 20px;
+
+}
+.menu ul{
+   position: absolute;
+
+}
+nav a{
+   color: #ddd;
+   display: block;
+   padding: 0 2.5em;
+   text-decoration: none;
+   transition: .4s;
+}
+nav a:hover{
+   background: blue;
+}
+li{
+	list-style: none;
+	float: left;
+	padding: 10px;
+}
+li{
+	background-color: yellow 
+	border-radius:10px ;
+}
